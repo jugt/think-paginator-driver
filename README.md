@@ -7,7 +7,7 @@
 
 ## 安装
 ```
-composer require jugt/think-paginator-driver
+composer require jugt/think-paginator-driver:dev-main
 ```
 
 ## 配置
@@ -57,11 +57,8 @@ return [
 
 ## 说明
 在bigDream/thinkPaginatorDriver 上修改，二次发布。
-[https://github.com/big-dream/think-paginator-driver]
+[https://github.com/big-dream/think-paginator-driver][1]
 
 ## 其它
 你所用的前端框架不在这里？欢迎提交PR，或者在Issues里告诉我。
-
 [1]: https://github.com/big-dream/think-paginator-driver
-
-[]: https://github.com/big-dream/think-paginator-driver

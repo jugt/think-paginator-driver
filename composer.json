@@ -18,7 +18,6 @@
       "email": "76243749@qq.com"
     }
   ],
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "jugt\\thinkPaginatorDriver\\": "src"
